@@ -9,5 +9,5 @@ Tableau Public URL:
 https://public.tableau.com/app/profile/younggwang6004
 
 
-## Courses
+## Courses/ Certification
  - IBM Data Analysis Professional Certification
