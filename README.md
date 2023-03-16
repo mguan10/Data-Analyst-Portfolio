@@ -1,8 +1,10 @@
 # Data-Analyst-Portfolio
 About me
 
-**Basic Data analysis**
+**Data analysis Projects**
 1. supermarket sales analysis
+CODE: 
+
 **SQL Query** 
 
 **Tableau**
@@ -11,4 +13,4 @@ https://public.tableau.com/app/profile/younggwang6004
 
 
 **Courses** 
-IBM Data Analysis Professional Certification
+ - IBM Data Analysis Professional Certification
