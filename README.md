@@ -1,8 +1,9 @@
 # Data-Analyst-Portfolio
 
-Basic Data analysis
+**Basic Data analysis**
+1. supermarket sales analysis
+**SQL Query** 
 
-SQL Query 
-
-Tableau Public 
+**Tableau**
+Tableau Public URL:  
 https://public.tableau.com/app/profile/younggwang6004
