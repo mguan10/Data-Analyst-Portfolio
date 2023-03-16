@@ -1,16 +1,13 @@
-# Data-Analyst-Portfolio
-About me
+## Data analysis Projects
+<br>**Basic Data analysis on product lines**<br/>
+<br>CODE: supermarket sales analysis<br/>
+Description:
+## SQLQuery 
 
-**Data analysis Projects**
-1. supermarket sales analysis
-CODE: 
-
-**SQL Query** 
-
-**Tableau**
+## Tableau 
 Tableau Public URL:  
 https://public.tableau.com/app/profile/younggwang6004
 
 
-**Courses** 
+## Courses
  - IBM Data Analysis Professional Certification
