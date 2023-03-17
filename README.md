@@ -15,10 +15,12 @@
 **1. Basic SQL query**
 
 
-### Hackerrank URL: https://www.hackerrank.com/yguan07
+### Hackerrank URL: 
+https://www.hackerrank.com/yguan07
 
 ## Tableau 
-### Tableau Public URL: https://public.tableau.com/app/profile/younggwang6004
+### Tableau Public URL: 
+https://public.tableau.com/app/profile/younggwang6004
 
 
 ## Courses/Certification
