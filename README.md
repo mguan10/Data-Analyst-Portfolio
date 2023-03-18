@@ -3,7 +3,7 @@
  - Code: [Supermarket sales analysis.ipynb](https://github.com/mguan10/Data-Analyst-Portfolio/blob/main/Supermarket%20sales%20analysis.ipynb)
  - Description:
 
-**2. Analysis using Linear Regression and A/B testing**
+**2. Car price analysis using Linear Regression**
  - Code: 
  - Description: 
 
