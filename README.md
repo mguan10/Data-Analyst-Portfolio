@@ -3,7 +3,7 @@
  - Code: [Supermarket sales analysis.ipynb](https://github.com/mguan10/Data-Analyst-Portfolio/blob/main/Supermarket%20sales%20analysis.ipynb)
 
 **2. Car price analysis using Linear Regression**
- - Code: [Car price
+ - Code: [Car price prediction analysis.ipynb](https://github.com/mguan10/Data-Analyst-Portfolio/blob/main/Car%20price.ipynb)
 
 ## SQLQuery 
 [Hackerrank profile URL](https://www.hackerrank.com/yguan07)
