@@ -5,8 +5,8 @@
 **2. Car price analysis using Linear Regression**
  - Code: [Car price prediction analysis.ipynb](https://github.com/mguan10/Data-Analyst-Portfolio/blob/main/Car%20price.ipynb)
  
-**3. A/B testing on Marketing campaign** 
- - Code: 
+**3. A/B testing on Marketing ad campaign(In Progress)** 
+ - Code: [Marketing_abtesting.ipynb](https://github.com/mguan10/Data-Analyst-Portfolio/blob/main/Marketing_abtesting.ipynb)
 
 ## SQLQuery 
 [Hackerrank profile URL](https://www.hackerrank.com/yguan07)
