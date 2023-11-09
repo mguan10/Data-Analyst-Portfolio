@@ -7,7 +7,3 @@
  
 **3. A/B testing on Marketing ad campaign** 
  - Code: [Marketing_abtesting.ipynb](https://github.com/mguan10/Data-Analyst-Portfolio/blob/main/Marketing_abtesting.ipynb)
-
-## Courses/Certification
-### IBM Data Analysis Professional Certification 
-[Verification](https://coursera.org/verify/professional-cert/B6TW96GNNAUD)
