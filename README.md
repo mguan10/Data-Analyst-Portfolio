@@ -7,3 +7,6 @@
  
 **3. A/B testing on Marketing ad campaign** 
  - Code: [Marketing_abtesting.ipynb](https://github.com/mguan10/Data-Analyst-Portfolio/blob/main/Marketing_abtesting.ipynb)
+
+**4. Survival Analysis using Kaplan Mier
+ - Code: 
